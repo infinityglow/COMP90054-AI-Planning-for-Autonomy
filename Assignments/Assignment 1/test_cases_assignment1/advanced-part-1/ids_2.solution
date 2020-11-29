@@ -1,0 +1,7 @@
+# This is the solution file for test_cases/advanced-part-1/ids_0.test.
+# This solution is designed to support both right-to-left
+# and left-to-right implementations.
+solution: "Right Down Right"
+expanded_states: "A A E B A E B D"
+rev_solution: "Right Down Right"
+rev_expanded_states: "A A B E A B H D"

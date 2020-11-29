@@ -1,0 +1,28 @@
+class: "GraphSearchTest"
+algorithm: "iterativeDeepeningSearch"
+
+diagram: """
+
+     1       1 
+*A ----> B -----> H 
+ |         | 
+ V         V  1
+ E         D --> [I]
+
+A is the start state, and I is the goal.  Arrows mark possible state 
+transitions.  The number next to the arrow is the cost of that transition.
+"""
+# The following section specifies the search problem and the solution.
+# The graph is specified by first the set of start states, followed by
+# the set of goal states, and lastly by the state transitions which are
+# of the form: 
+#      <start state> <actions> <end state> <cost>
+graph: """
+start_state: A
+goal_states: I
+A Right B 1.0
+A Down E 1.0
+B Right H 1.0
+B Down D 1.0
+D Right I 1.0
+"""

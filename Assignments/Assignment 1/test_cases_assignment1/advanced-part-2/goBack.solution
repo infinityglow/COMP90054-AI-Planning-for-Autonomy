@@ -1,0 +1,9 @@
+# There should only be one correct path found for this map, regardless of the order nodes are appended.
+solution: """
+South South South South North North North North North North West West South South South South South South
+"""
+expanded_nodes: "23"
+rev_solution: """
+South South South South North North North North North North West West South South South South South South
+"""
+rev_expanded_nodes: "18"

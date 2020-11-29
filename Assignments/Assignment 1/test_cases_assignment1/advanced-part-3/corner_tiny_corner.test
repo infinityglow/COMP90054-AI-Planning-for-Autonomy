@@ -1,0 +1,14 @@
+class: "CapsuleTest"
+
+layoutName: "tinyCorner"
+layout: """
+%%%%%%%%%%%%%%%%%%%%
+%.           . %   %
+% %%.%%.%%.%%.%% % %
+%        P     o % %
+%%%%%%%%%%%%%%%%%% %
+%..  .             %
+%%%%%%%%%%%%%%%%%%%%
+"""
+basePoints: "1"
+gradingThresholds: "2185 3516 4558 5542"
