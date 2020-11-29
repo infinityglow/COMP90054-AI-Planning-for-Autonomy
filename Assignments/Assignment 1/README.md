@@ -1,14 +1,6 @@
-# COMP90054 AI Planning for Autonomy - Project 1 - Search 
+# Project 1 - Search 
 
 You must read fully and carefully the assignment specification and instructions detailed in this file. You are NOT to modify this file in any way.
-
-* **Course:** [COMP90054 AI Planning for Autonomy](https://handbook.unimelb.edu.au/subjects/comp90054) @ Semester 2, 2020
-* **Instructor:** Dr. Nir Lipovetzky and Prof. Adrian Pearce
-* **Deadline:** Friday 28th August, 2020 @ 11:59pm (end of Week 4)
-* **Course Weight:** 10%
-* **Assignment type:**: Individual
-* **ILOs covered:** 1, 2, and 3
-* **Submission method:** via git tagging (see Submission Instructions below for instructions)
 
 The **aim of this project** is to get you acquainted with AI search techniques and how to derive heuristics in Pacman, as well as to understand the Python-based Pacman infrastructure.
 
@@ -154,20 +146,6 @@ https://www.loom.com/share/3cd39e97919e4b688d9841613aba6973
 **Silence Policy:** A silence policy will take effect **48 hours** before this assignment is due. This means that no question about this assignment will be answered, whether it is asked on the newsgroup, by email, or in person. Use the last 48 hours to wrap up and finish your project quietly as well as possible if you have not done so already. Remember it is not mandatory to do all perfect, try to cover as much as possible. By having some silence we reduce anxiety, last minute mistakes, and unreasonable expectations on others. 
 
 Please remember to follow all the submission steps as per project specification.
-
-## COMP90054 Code of Honour
-
-We expect every UoM student taking this course to adhere to it **Code of Honour** under which every learner-student should:
-
-* Submit their own original work.
-* Do not share answers with others.
-* Report suspected violations.
-* Engage in any other activities that will dishonestly improve their results or dishonestly improve or damage the results of others.
-
-Unethical behaviour is extremely serious and consequences are painful for everyone. We expect enrolled students/learners to take full **ownership** of your work and **respect** the work of teachers and other students.
-
-
-**I hope you enjoy the project and learn from it**, and if you still **have doubts about the project and/or this specification** do not hesitate asking in the [Piazza Course Discussion Forum](https://piazza.com/unimelb.edu.au/fall2020/comp90054/home) and we will try to address it as quickly as we can!
 
 **GOOD LUCK and HAPPY PACMAN!**
 
